@@ -1,0 +1,21 @@
+html {
+  font-family: sans-serif;
+}
+
+h1 {
+  text-transform: capitalize;
+}
+body {
+  width: 50%;
+  max-width: 800px;
+  min-width: 480px;
+  margin: 0 auto;
+}
+p {
+  line-height: 1.6;
+}
+
+.lastResult {
+  color: white;
+  padding: 3px;
+}
